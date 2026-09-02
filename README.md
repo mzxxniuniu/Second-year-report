@@ -33,4 +33,4 @@ All results were generated with `PYTHONHASHSEED=17` (Python 3). Each project ins
 
 ## Contact
 
-Zixuanxuan Ma, Department of Mechanical, Aerospace and Civil Engineering, University of Manchester.
+Zixuanxuan Ma, Department of Civil Engineering Management, University of Manchester.
